@@ -22,3 +22,8 @@ elasticsearch/bin/elasticsearch
 5. 插入数据
 6. 遍历所有顶点、边
 7. 查询两个人物之间的的N度以内的关系
+
+### 关于我
+Author:HCC  
+Email:1990609320@qq.com  
+QQ:1990609320
